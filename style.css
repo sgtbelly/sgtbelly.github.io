@@ -1,0 +1,22 @@
+html {
+    height: 100%
+}
+Body {
+    background-color: lightgreen;
+    background-image: url("http://www.splendidwallpaper.com/wp-content/uploads/2012/07/high-resolution-nature-wallpaper-2560x1440.jpg");
+    color: black;
+    text-align: center
+    }
+ p {
+        font-family: "Times New Roman", Times, serif
+    }
+li {
+    list-style-type: none;
+    text-decoration: none;
+
+}
+
+a{
+    text-decoration: none;
+    text-decoration-color: black;
+}
